@@ -2,4 +2,4 @@
 
 ## Summary 
 
-This repository contains all of the notes taken by Ali for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Ali](https://github.com/AliHashemi86) for the Lighthouse Labs Web Development Bootcamp.
